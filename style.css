@@ -1,0 +1,22 @@
+.grid {
+    width: 400px;
+    height: 600px;
+    background-color: aqua;
+    position: relative;
+    font-size: 100px;
+    text-align: center;
+}
+
+.kakashi {
+    width: 60px;
+    height: 80px;
+    background-color: red;
+    position: absolute;
+}
+
+.wood {
+    width: 85px;
+    height: 15px;
+    background-color: rgb(255, 0, 200);
+    position: absolute;
+}
