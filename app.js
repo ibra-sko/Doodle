@@ -70,6 +70,7 @@ document.addEventListener("DOMContentLoaded", () => {
         kakashiLeftSpace = woods[0].left
         kakashi.style.left = kakashiLeftSpace + 'px'
         kakashi.style.bottom = kakashiBottomSpace + 'px'
+        setInterval(movewoods, 30)
     }
 
     function fall() {
